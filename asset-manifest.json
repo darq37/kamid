@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/darq37/kamid/static/css/main.d1b05096.chunk.css",
-    "main.js": "/darq37/kamid/static/js/main.2af68662.chunk.js",
-    "main.js.map": "/darq37/kamid/static/js/main.2af68662.chunk.js.map",
-    "runtime-main.js": "/darq37/kamid/static/js/runtime-main.f92d8e9e.js",
-    "runtime-main.js.map": "/darq37/kamid/static/js/runtime-main.f92d8e9e.js.map",
-    "static/js/2.669a4153.chunk.js": "/darq37/kamid/static/js/2.669a4153.chunk.js",
-    "static/js/2.669a4153.chunk.js.map": "/darq37/kamid/static/js/2.669a4153.chunk.js.map",
-    "index.html": "/darq37/kamid/index.html",
-    "precache-manifest.fbbb87745a5b89054f5b7c419032fda3.js": "/darq37/kamid/precache-manifest.fbbb87745a5b89054f5b7c419032fda3.js",
-    "service-worker.js": "/darq37/kamid/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/darq37/kamid/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.669a4153.chunk.js.LICENSE.txt": "/darq37/kamid/static/js/2.669a4153.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/darq37/kamid/static/media/logo.5d5d9eef.svg"
+    "main.css": "/kamid/static/css/main.d1b05096.chunk.css",
+    "main.js": "/kamid/static/js/main.58e4e903.chunk.js",
+    "main.js.map": "/kamid/static/js/main.58e4e903.chunk.js.map",
+    "runtime-main.js": "/kamid/static/js/runtime-main.84a25b99.js",
+    "runtime-main.js.map": "/kamid/static/js/runtime-main.84a25b99.js.map",
+    "static/js/2.669a4153.chunk.js": "/kamid/static/js/2.669a4153.chunk.js",
+    "static/js/2.669a4153.chunk.js.map": "/kamid/static/js/2.669a4153.chunk.js.map",
+    "index.html": "/kamid/index.html",
+    "precache-manifest.ed8398c6afa01a93ae242592459ee9eb.js": "/kamid/precache-manifest.ed8398c6afa01a93ae242592459ee9eb.js",
+    "service-worker.js": "/kamid/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/kamid/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.669a4153.chunk.js.LICENSE.txt": "/kamid/static/js/2.669a4153.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kamid/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f92d8e9e.js",
+    "static/js/runtime-main.84a25b99.js",
     "static/js/2.669a4153.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2af68662.chunk.js"
+    "static/js/main.58e4e903.chunk.js"
   ]
 }
