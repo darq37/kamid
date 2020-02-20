@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Spectral|Spectral+SC');
+
+.header {
+    display: grid;
+    grid-template-columns: 300px auto auto 100px;
+    grid-template-rows: 100px 30px;
+    grid-auto-flow: column;
+    grid-gap: 1rem;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.menu-button {
+    grid-row: 2;
+}
+
+.contact {
+    grid-column: 4;
+    text-align: center;
+}
+
+.contact-2 {
+    grid-column: 4;
+    text-align: center;
+}
+
+.App-logo {
+    grid-column: 1;
+    max-height: 100px;
+
+}
+
+.title {
+    grid-column: 1;
+    text-align: center;
+}
+
