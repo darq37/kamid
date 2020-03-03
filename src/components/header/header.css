@@ -8,21 +8,26 @@
     grid-gap: 1rem;
     align-items: center;
     justify-items: center;
+    background-color: #666666;
 
 }
 
 .menu-button {
     grid-row: 2;
+    font-family: 'Spectral SC', serif;
 }
 
-.contact {
+.call {
     grid-column: 4;
+    grid-row: 1;
     text-align: center;
+    font-family: 'Spectral', serif;
 }
 
-.contact-2 {
+.callNumber {
     grid-column: 4;
     text-align: center;
+    font-family: 'Spectral SC', serif;
 }
 
 .App-logo {
@@ -34,5 +39,7 @@
 .title {
     grid-column: 1;
     text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: x-large;
 }
 
