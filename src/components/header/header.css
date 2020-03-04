@@ -2,11 +2,10 @@
 
 .header {
     display: grid;
-    grid-template-columns: 300px auto auto 100px;
-    grid-template-rows: 100px 30px;
-    grid-auto-flow: column;
-    grid-gap: 1rem;
+    grid-template-rows: 105px 20px;
+    grid-auto-flow: row;
     align-items: center;
+    padding: 5px;
     justify-items: center;
     background-color: #666666;
 
@@ -14,30 +13,49 @@
 
 .menu-button {
     grid-row: 2;
+    grid-column: 2/3;
     font-family: 'Spectral SC', serif;
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid black;
+    background-color: #666666;
+    border-radius:0.12em;
+    text-decoration:none;
+    color:black;
+    text-align:center;
+    transition: all 0.2s;
+}
+.menu-button:hover{
+    color:#666666;
+    background-color:#FFFFFF;
 }
 
 .call {
+    justify-self: end;
+    align-self: end;
     grid-column: 4;
     grid-row: 1;
-    text-align: center;
+    text-align: end;
     font-family: 'Spectral', serif;
 }
 
 .callNumber {
+    justify-self: end;
     grid-column: 4;
     text-align: center;
-    font-family: 'Spectral SC', serif;
+    font-family: 'Spectral', serif;
 }
 
 .App-logo {
     grid-column: 1;
-    max-height: 100px;
+    grid-row: 1/2;
+    max-block-size: 100px;
 
 }
 
 .title {
-    grid-column: 1;
+    grid-column: 2/4;
+    grid-row: 2;
     text-align: center;
     font-family: 'Fredoka One', cursive;
     font-size: x-large;

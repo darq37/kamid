@@ -5,6 +5,7 @@ import {BrowserRouter} from "react-router-dom";
 import About from "./components/About";
 import Main from "./components/Main";
 import Contact from "./components/Contact";
+import NoMatch from "./components/NoMatch";
 
 
 class App extends React.Component {
@@ -15,6 +16,7 @@ class App extends React.Component {
                     <Route exact path={"/"} component={Main}/>
                     <Route path={"/about"} component={About}/>
                     <Route path={"/contact"} component={Contact}/>
+                    <Route component={NoMatch}/>
                 </Switch>
             </Layout>
         </BrowserRouter>
