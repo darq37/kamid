@@ -2,7 +2,7 @@
   "name": "kamid",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://darq37.github.io/kamid",
+  "homepage": "https://darq37.github.io/kamid/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",

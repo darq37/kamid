@@ -1,5 +1,5 @@
 import React from "react";
 
 export default () => (
-     <p>404</p>
+     <p>Przykro mi, trafiłeś pod zły adres</p>
 )

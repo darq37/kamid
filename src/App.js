@@ -14,6 +14,7 @@ class App extends React.Component {
             <Layout>
                 <Switch>
                     <Route exact path={"/"} component={Main}/>
+                    <Route path={"/kamid"} component={Main}/>
                     <Route path={"/about"} component={About}/>
                     <Route path={"/contact"} component={Contact}/>
                     <Route component={NoMatch}/>
