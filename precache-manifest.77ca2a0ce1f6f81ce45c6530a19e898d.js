@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f76a180590c187d75454e911acefe2e3",
+    "revision": "939700d1a29dc07b05fea22853f2a362",
     "url": "/kamid/index.html"
   },
   {
-    "revision": "d04c71d26aa77fa5b5c2",
-    "url": "/kamid/static/css/main.27ef4353.chunk.css"
+    "revision": "8aec8a3bb18a2e6a9d46",
+    "url": "/kamid/static/css/main.93c61135.chunk.css"
   },
   {
     "revision": "a40ebbf1db2f7beca65b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kamid/static/js/2.eb5a9ea1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d04c71d26aa77fa5b5c2",
-    "url": "/kamid/static/js/main.479d6101.chunk.js"
+    "revision": "8aec8a3bb18a2e6a9d46",
+    "url": "/kamid/static/js/main.aa751be9.chunk.js"
   },
   {
     "revision": "525b07c1b892c5cebcf9",

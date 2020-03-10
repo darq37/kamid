@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/kamid/static/css/main.27ef4353.chunk.css",
-    "main.js": "/kamid/static/js/main.479d6101.chunk.js",
-    "main.js.map": "/kamid/static/js/main.479d6101.chunk.js.map",
+    "main.css": "/kamid/static/css/main.93c61135.chunk.css",
+    "main.js": "/kamid/static/js/main.aa751be9.chunk.js",
+    "main.js.map": "/kamid/static/js/main.aa751be9.chunk.js.map",
     "runtime-main.js": "/kamid/static/js/runtime-main.84a25b99.js",
     "runtime-main.js.map": "/kamid/static/js/runtime-main.84a25b99.js.map",
     "static/js/2.eb5a9ea1.chunk.js": "/kamid/static/js/2.eb5a9ea1.chunk.js",
     "static/js/2.eb5a9ea1.chunk.js.map": "/kamid/static/js/2.eb5a9ea1.chunk.js.map",
     "index.html": "/kamid/index.html",
-    "precache-manifest.9ebeb71f077a1951c5a0aa447db29bea.js": "/kamid/precache-manifest.9ebeb71f077a1951c5a0aa447db29bea.js",
+    "precache-manifest.77ca2a0ce1f6f81ce45c6530a19e898d.js": "/kamid/precache-manifest.77ca2a0ce1f6f81ce45c6530a19e898d.js",
     "service-worker.js": "/kamid/service-worker.js",
-    "static/css/main.27ef4353.chunk.css.map": "/kamid/static/css/main.27ef4353.chunk.css.map",
+    "static/css/main.93c61135.chunk.css.map": "/kamid/static/css/main.93c61135.chunk.css.map",
     "static/js/2.eb5a9ea1.chunk.js.LICENSE.txt": "/kamid/static/js/2.eb5a9ea1.chunk.js.LICENSE.txt",
     "static/media/transparent-logo.png": "/kamid/static/media/transparent-logo.30a2221b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.84a25b99.js",
     "static/js/2.eb5a9ea1.chunk.js",
-    "static/css/main.27ef4353.chunk.css",
-    "static/js/main.479d6101.chunk.js"
+    "static/css/main.93c61135.chunk.css",
+    "static/js/main.aa751be9.chunk.js"
   ]
 }
